@@ -5,8 +5,6 @@
 * `CSS`
 * `JavaScript`
 
-## How it looks 🎥
-
 
 ## Introduction
 
