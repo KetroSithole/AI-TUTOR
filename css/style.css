@@ -1,4 +1,4 @@
-/* Genetal Styling */
+/* General Styling */
 
 html {
   scroll-behavior: smooth;
@@ -7,5 +7,9 @@ html {
 
 body {
   margin: 0 auto;
-  background: #222;
+  background: #222; /* Fallback color in case the image doesn't load */
+  background-image: url('https://media.licdn.com/dms/image/D4D03AQEZxNAeK9ZahA/profile-displayphoto-shrink_800_800/0/1703721387427?e=1709769600&v=beta&t=q0NuDzRRHy0J01-AQUyXdY3NxZKegNP-4qF6O-l8dp8');
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  background-repeat: no-repeat;
 }
