@@ -94,6 +94,55 @@ For queries it doesn't understand, the chatbot responds with a suggestion to ask
 4. **Visual Enhancements:**
    - Improve the user interface with more engaging visuals and animations.
 
+
+
+
+
+
+
+ ##  For Testing Purpose User can Try this 
+ 1. Greetings:
+   - Hello
+   - Hey
+   - Hi
+   - Good morning
+   - Good day
+   - Good evening
+   - Good afternoon
+   - Yo
+   - Sup
+
+2. Inquiry about the bot's name:
+   - What's your name?
+   - What is your name?
+   - Who are you?
+
+3. Health-related questions:
+   - How are you?
+   - How are you feeling?
+
+4. Request a joke:
+   - Tell me a joke
+   - Say a joke
+
+5. Farewell messages:
+   - Goodbye
+   - Bye
+   - Take care
+   - Peace out
+   - Later
+
+6. Inappropriate language (for testing how the bot responds):
+   - Swear words like "Fuck," "Bitch," etc.
+
+7. Inquiry about the bot's favorite color:
+   - What is your favorite color?
+   - What's your favorite color?
+
+8. Miscellaneous:
+   - Any other random statements or questions to test the bot's response to unexpected input.
+
+
 ## Conclusion
 
 The provided chatbot offers a basic conversational experience with potential for further development and customization. It serves as a starting point for building more sophisticated chat applications.
